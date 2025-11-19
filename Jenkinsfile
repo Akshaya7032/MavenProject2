@@ -1,7 +1,7 @@
 node {
 
     stage('Clone Repository') {
-        git branch: 'main', url: 'https://github.com/maanas-sunnam/MavenProject.git'
+        git branch: 'main', url: 'https://github.com/Akshaya7032/MavenProject2.git'
     }
 
     stage('Clean') {
